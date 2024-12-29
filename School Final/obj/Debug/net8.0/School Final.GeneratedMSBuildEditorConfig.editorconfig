@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = School_Final
+build_property.RootNamespace = School_Final
+build_property.ProjectDir = C:\Users\ALMASRIA 4 COMP\Desktop\Final A\School Final\School Final\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ALMASRIA 4 COMP\Desktop\Final A\School Final\School Final
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Assignment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Assignment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Assignment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Assignment/GetAllAssignments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxHZXRBbGxBc3NpZ25tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Assignment/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Subject/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Subject/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Subject/GetAllSubjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxHZXRBbGxTdWJqZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Subject/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViamVjdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Teacher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Teacher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Teacher/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Teacher/GetAllTeachers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxHZXRBbGxUZWFjaGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Teacher/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALMASRIA 4 COMP/Desktop/Final A/School Final/School Final/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zrg44p4h7r
